@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- :books: I’m currently learning Network Science at university!
+- :books: I’m currently learning Network Science and Economics at university!
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nagayu71&count_private=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
